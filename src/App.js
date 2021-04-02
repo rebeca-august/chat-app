@@ -4,10 +4,9 @@ import NewRoomForm from './components/NewRoomForm'
 import MessageList from './components/MessageList'
 import SendMessageForm from './components/SendMessageForm'
 
-
 import './App.css'
 
-
+function App() {
   return (
     <>
       <div className="app">
